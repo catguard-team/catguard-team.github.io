@@ -1,6 +1,6 @@
 # catguard-team.github.io
 
-> 자경단 정적 자산 호스팅 — 배지, 공용 이미지, 짧은 안내 페이지.
+> 자경단 정적 자산 호스팅 레포입니다 — 배지, 공용 이미지, 짧은 안내 페이지가 들어 있습니다.
 >
 > 메인 페이지: https://catguard-team.github.io
 > 배지 베이스: https://catguard-team.github.io/badges/
@@ -10,11 +10,11 @@
 ## 무엇이 들어있나
 
 - `badges/` — 자경단 검증·검증 중 배지 SVG
-- `index.html` — 빈 안내 페이지 (`https://github.com/catguard-team`로 안내)
+- `index.html` — 빈 안내 페이지 (`https://github.com/catguard-team`로 안내해 드립니다)
 
 ## 배지 사용
 
-자경단원이 본인 README에 박을 수 있습니다.
+자경단원이 본인 README에 붙이실 수 있습니다.
 
 ```markdown
 [![자경단 검증](https://catguard-team.github.io/badges/verified.svg)](https://github.com/catguard-team)
@@ -27,8 +27,8 @@
 | 검증 통과 | `https://catguard-team.github.io/badges/verified.svg` |
 | 검증 중 | `https://catguard-team.github.io/badges/in-progress.svg` |
 
-검증 절차는 [`catguard-team/manifesto`의 OPERATIONS §11](https://github.com/catguard-team/manifesto/blob/main/OPERATIONS.md) 참조.
+검증 절차는 [`catguard-team/manifesto`의 OPERATIONS §11](https://github.com/catguard-team/manifesto/blob/main/OPERATIONS.md)을 참조해 주세요.
 
 ---
 
-**냐-옹.**
+**고맙습니다. 냐-옹.**

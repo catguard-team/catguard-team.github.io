@@ -10,7 +10,8 @@
 ## 무엇이 들어있나
 
 - `badges/` — 자경단 검증·검증 중 배지 SVG
-- `index.html` — 빈 안내 페이지 (`https://github.com/catguard-team`로 안내해 드립니다)
+- `assets/` — OG 이미지와 발바닥 파비콘
+- `index.html` — 자경단 소개, 안내서, 참여 경로를 담은 공식 랜딩 페이지
 
 ## 검색 키워드 안내
 
